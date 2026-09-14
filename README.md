@@ -1,44 +1,62 @@
 <div align="center">
 
-**AI-directed systems builder · reverse-engineering · developer tooling**
+**AI-directed systems builder · reverse engineering · developer tooling**
 
-[![Swift](https://img.shields.io/badge/Swift_6-FA7343?logo=swift&logoColor=white)](https://github.com/xsyetopz)
-[![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)](https://github.com/xsyetopz)
-[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)](https://github.com/xsyetopz)
-[![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)](https://github.com/xsyetopz)
-[![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-412991?logo=openai&logoColor=white)](https://github.com/openai/codex)
+[![OpenAI Codex](https://img.shields.io/badge/Workflow-OpenAI%20Codex-412991?logo=openai\&logoColor=white)](https://github.com/openai/codex)
+![AI-directed](https://img.shields.io/badge/Development-AI--directed-111111)
+![Systems](https://img.shields.io/badge/Domain-Systems-2f363d)
+![Reverse Engineering](https://img.shields.io/badge/Domain-Reverse%20Engineering-2f363d)
+![macOS](https://img.shields.io/badge/Platform-macOS-000000?logo=apple\&logoColor=white)
 
-**See a need, fill a need.**
+> **See a need, fill a need.**
 
 I build software around missing capabilities, abandoned tools, awkward platform
-boundaries, and undocumented systems.
+boundaries, undocumented systems, and things worth preserving.
 
-AI agents write the code. I handle the problem definition, research, constraints,
-architecture direction, iteration, validation, and final product decisions.
+AI agents write the code. I define the problem, research the domain, steer the
+architecture, challenge the implementation, test the result, and decide what
+ships.
 
 </div>
 
-## Projects
+## Selected work
 
-| Project | Description |
-| --- | --- |
-| 🎮 [OpenJoystickDriver](https://github.com/xsyetopz/OpenJoystickDriver) | macOS userspace gamepad driver |
-| 🧩 [SwifterKit](https://github.com/xsyetopz/SwifterKit) | Swift 6+ DriverKit wrapper and generator |
-| 🔌 [SwiftUSB](https://github.com/xsyetopz/SwiftUSB) | Swift-native libusb wrapper |
-| 🎛️ [JagFx](https://github.com/xsyetopz/JagFx) | reverse-engineered Jagex synthesizer |
-| 📦 [versionlens-redux](https://github.com/xsyetopz/versionlens-redux) | Rust continuation of Version Lens |
-| 🖼️ [easel.js](https://github.com/xsyetopz/easel.js) | THREE.js-like Canvas2D rasterizer |
+🎮 **[OpenJoystickDriver](https://github.com/xsyetopz/OpenJoystickDriver)**
+macOS userspace gamepad driver with Swift, HID/USB, local RPC, DriverKit,
+signing, entitlements, and controller compatibility layers.
 
-## Agent Tooling
+🧩 **[SwifterKit](https://github.com/xsyetopz/SwifterKit)**
+Swift 6+ DriverKit abstraction and generator so downstream projects do not need
+to rebuild bespoke C++/IIG glue.
 
-[dotcodex](https://github.com/xsyetopz/dotcodex) - public portion of my `~/.codex/`
+🎛️ **[JagFx](https://github.com/xsyetopz/JagFx)**
+Reconstruction of Jagex's internal RuneScape synthesizer from decompiled code,
+observable behavior, screenshots, videos, and file-format analysis.
 
-[skills](https://github.com/xsyetopz/skills) - reusable agent rules, workflows,
-research guidance, and engineering constraints
+🧰 **[versionlens-redux](https://github.com/xsyetopz/versionlens-redux)**
+Rust continuation of Version Lens, aimed at broader version-file support and
+better performance.
 
-<div align="center">
+🖼️ **[easel.js](https://github.com/xsyetopz/easel.js)**
+THREE.js-inspired Canvas2D rasterizer for environments where WebGL is unwanted
+or unreliable.
 
-![Top languages](https://github-stats-extended.vercel.app/api/top-langs?username=xsyetopz&layout=compact&langs_count=10&disable_animations=true&theme=default_repocard)
+📐 **[vscode-bnf-intellisense](https://github.com/xsyetopz/vscode-bnf-intellisense)**
+Language tooling for BNF-family grammars.
+
+## AI workflow
+
+[![dotcodex](https://img.shields.io/badge/dotcodex-public%20~%2F.codex-111111?logo=github)](https://github.com/xsyetopz/dotcodex)
+[![skills](https://img.shields.io/badge/skills-agent%20workflows-111111?logo=github)](https://github.com/xsyetopz/skills)
+
+`dotcodex` is the public portion of my user-level Codex environment.
+
+`skills` contains reusable agent instructions, research workflows, engineering
+constraints, and lessons extracted from real project failures.
+
+## Stats
+
+![Top languages](https://github-stats-extended.vercel.app/api/top-langs?username=xsyetopz\&layout=compact\&langs_count=10\&disable_animations=true\&theme=default_repocard)
 
 </div>
 
