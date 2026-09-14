@@ -3,9 +3,6 @@
 **AI-directed systems builder · reverse engineering · developer tooling**
 
 [![OpenAI Codex](https://img.shields.io/badge/Workflow-OpenAI%20Codex-412991?logo=openai\&logoColor=white)](https://github.com/openai/codex)
-![AI-directed](https://img.shields.io/badge/Development-AI--directed-111111)
-![Systems](https://img.shields.io/badge/Domain-Systems-2f363d)
-![Reverse Engineering](https://img.shields.io/badge/Domain-Reverse%20Engineering-2f363d)
 ![macOS](https://img.shields.io/badge/Platform-macOS-000000?logo=apple\&logoColor=white)
 
 > **See a need, fill a need.**
