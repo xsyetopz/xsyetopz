@@ -4,6 +4,8 @@ I make tools for hardware and file formats that nobody bothered to document. Mos
 
 Claude Code writes most of my code. I decide what gets built, figure out how the thing actually works, and read everything before it goes in.
 
+> "See a need, fill a need" - Bigweld, 2005
+
 ## What I've Made
 
 **[OpenJoystickDriver](https://github.com/xsyetopz/OpenJoystickDriver)** is a gamepad driver for macOS. For when your controller works but your game or emulator can't see it.
