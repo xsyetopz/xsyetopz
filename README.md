@@ -1,24 +1,23 @@
-<div align="center">
-
 # xsyetopz
 
-**AI-directed systems builder · reverse-engineering · developer tooling**
+I make tools for hardware and file formats that nobody bothered to document. Mostly macOS, Swift and Rust.
 
-[![Claude Code](https://img.shields.io/badge/Workflow-Claude%20Code-D97757?logo=anthropic&logoColor=white)](https://github.com/anthropics/claude-code)
-[![Discord](https://img.shields.io/discord/1542514506553368748?logo=discord&logoColor=white&label=Discord)](https://discord.gg/zdaRa9zy5c)
+Claude Code writes most of my code. I decide what gets built, figure out how the thing actually works, and read everything before it goes in.
 
-> **See a need, fill a need.**
+## What I've Made
 
-I build software around missing capabilities, abandoned tools, awkward platform
-boundaries, undocumented systems, and things worth preserving.
+**[OpenJoystickDriver](https://github.com/xsyetopz/OpenJoystickDriver)** is a gamepad driver for macOS. For when your controller works but your game or emulator can't see it.
 
-AI agents write the code. I define the problem, research the domain, steer the
-architecture, challenge the implementation, test the result, and decide what
-ships.
+**[SwifterKit](https://github.com/xsyetopz/SwifterKit)** lets you write DriverKit drivers in Swift. DriverKit normally wants C++ and IIG glue, so it generates that part.
 
-</div>
+**[gamesir-fw](https://github.com/xsyetopz/gamesir-fw)** takes apart GameSir's firmware format and flashes it back without their app. It rolled back a G7 SE that an official update had broken on macOS.
 
-## Stats
+**[JagFx](https://github.com/xsyetopz/JagFx)** edits the sound effect files from OldSchool RuneScape.
 
-![Top languages](https://github-stats-extended.vercel.app/api/top-langs?username=xsyetopz\&layout=compact\&langs_count=10\&disable_animations=true\&theme=default_repocard)
+**[dotclaude](https://github.com/xsyetopz/dotclaude)** is my Claude Code setup as a plugin. Rules that live only in a prompt stopped holding up, so hooks enforce them.
 
+The rest is on [my repositories page](https://github.com/xsyetopz?tab=repositories).
+
+## Working Together
+
+If you have a controller, USB gadget, or file format that nobody has documented (yet), I'd like to know about it. I'd be grateful to have more people testing on real hardware, too. Open an issue on the repo, or find me on [Discord](https://discord.gg/zdaRa9zy5c).
