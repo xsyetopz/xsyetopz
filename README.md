@@ -12,16 +12,22 @@
 </p>
 
 <p align="center">
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api?username=xsyetopz&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
-       alt="GitHub stats">
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=xsyetopz&layout=compact&hide_border=true&theme=transparent"
-       alt="Most used languages">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=xsyetopz&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
+    alt="GitHub stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=xsyetopz&layout=compact&hide_border=true&theme=transparent"
+    alt="Most used languages"
+  />
 </p>
 
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=xsyetopz&theme=transparent&hide_border=true"
-    alt="GitHub contribution streak">
+    alt="GitHub contribution streak"
+  />
 </p>
