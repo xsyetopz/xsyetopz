@@ -1,4 +1,4 @@
-# See a need, fill a need
+<h1 align="center">See a Need, Fill a Need</h1>
 
 <p align="center">
   AI-assisted coding is part of nearly all of my coding work.
