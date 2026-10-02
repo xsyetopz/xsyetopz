@@ -1,25 +1,27 @@
-# xsyetopz
+<p align="center">
+  I use AI-assisted coding for building, breaking, figuring things out, && publishing what might be useful.
+</p>
 
-I make tools for hardware and file formats that nobody bothered to document. Mostly macOS, Swift and Rust.
+<p align="center">
+  <a href="https://github.com/xsyetopz?tab=repositories">
+    <img src="https://img.shields.io/badge/repositories-browse-181717?style=flat-square&logo=github&logoColor=white" alt="Repositories">
+  </a>
+  <a href="https://discord.gg/zdaRa9zy5c">
+    <img src="https://img.shields.io/badge/discord-join-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord">
+  </a>
+</p>
 
-Claude Code writes most of my code. I decide what gets built, figure out how the thing actually works, and read everything before it goes in.
+<p align="center">
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api?username=xsyetopz&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
+       alt="GitHub stats">
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=xsyetopz&layout=compact&hide_border=true&theme=transparent"
+       alt="Most used languages">
+</p>
 
-> "See a need, fill a need" - Bigweld, 2005
-
-## What I've Made
-
-**[OpenJoystickDriver](https://github.com/xsyetopz/OpenJoystickDriver)** is a gamepad driver for macOS. For when your controller works but your game or emulator can't see it.
-
-**[SwifterKit](https://github.com/xsyetopz/SwifterKit)** lets you write DriverKit drivers in Swift. DriverKit normally wants C++ and IIG glue, so it generates that part.
-
-**[gamesir-fw](https://github.com/xsyetopz/gamesir-fw)** takes apart GameSir's firmware format and flashes it back without their app. It rolled back a G7 SE that an official update had broken on macOS.
-
-**[JagFx](https://github.com/xsyetopz/JagFx)** edits the sound effect files from OldSchool RuneScape.
-
-**[dotclaude](https://github.com/xsyetopz/dotclaude)** is my Claude Code setup as a plugin. Rules that live only in a prompt stopped holding up, so hooks enforce them.
-
-The rest is on [my repositories page](https://github.com/xsyetopz?tab=repositories).
-
-## Working Together
-
-If you have a controller, USB gadget, or file format that nobody has documented (yet), I'd like to know about it. I'd be grateful to have more people testing on real hardware, too. Open an issue on the repo, or find me on [Discord](https://discord.gg/zdaRa9zy5c).
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=xsyetopz&theme=transparent&hide_border=true"
+    alt="GitHub contribution streak">
+</p>
