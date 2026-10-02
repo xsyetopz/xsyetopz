@@ -1,5 +1,7 @@
 <p align="center">
-  I use AI-assisted coding for building, breaking, figuring things out, && publishing what might be useful.
+# See a need, fill a need
+
+AI-assisted coding is part of nearly all of my coding work.
 </p>
 
 <p align="center">
