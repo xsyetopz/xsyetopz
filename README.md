@@ -1,7 +1,7 @@
-<p align="center">
 # See a need, fill a need
 
-AI-assisted coding is part of nearly all of my coding work.
+<p align="center">
+  AI-assisted coding is part of nearly all of my coding work.
 </p>
 
 <p align="center">
